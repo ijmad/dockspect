@@ -1,5 +1,5 @@
 # dockspect
-A canned SSH server that can be deployed in to docker as a container. Useful for various things...
+A canned SSH server that can be deployed in to docker as a container. Useful for various things, like port forwarding or exploring Docker's DNS.
 
 ## Steps
 
